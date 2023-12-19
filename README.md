@@ -7,5 +7,5 @@ We used Overfleaf to write our documentation so if you need to see all updates p
 
 Overfleaf: https://www.overleaf.com/1153999568yfchqvhqdsst#36a960
 
-NB: This link has full Edit permissions enabled beacase it is the only way to see the updates history. 
+NB: This link has full Edit permissions enabled because it is the only way to see the complete updates history. 
 
